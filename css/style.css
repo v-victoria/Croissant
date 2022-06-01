@@ -1,0 +1,24 @@
+body {
+  background: #f7e0a3;
+}
+
+h1 {
+  color: #346473;
+  text-align: center;
+}
+
+div,
+p {
+  text-align: center;
+}
+
+a {
+  margin: 0 10px;
+}
+
+img {
+  display: block;
+  width: 75%;
+  margin: 10px auto;
+  border-radius: 10px;
+}
